@@ -1,7 +1,10 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
 # Project - 004 : Checkout Form (HC-04)
+
+- https://yhekim.github.io/Checkout-Form/
+
+- https://raw.githubusercontent.com/yhekim/Checkout-Form/main/checkout-form.gif
+
 
 Purpose of the this project is to write a code that make a checkout form.
 
@@ -21,6 +24,9 @@ At the end of the this project, students will be able to;
 - Create a checkout page following the design.
 
 ![Form](checkout.png)
+
+<p>Clarusway<img align="right"
+  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
 * Functionally similar to this: [Form](https://aaron-clarusway.github.io/form/)
 
