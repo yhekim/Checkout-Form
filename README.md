@@ -1,9 +1,10 @@
 
 # Project - 004 : Checkout Form (HC-04)
+![gif](https://raw.githubusercontent.com/yhekim/Checkout-Form/main/checkout-form.gif)
 
 - https://yhekim.github.io/Checkout-Form/
 
-- https://raw.githubusercontent.com/yhekim/Checkout-Form/main/checkout-form.gif
+
 
 
 Purpose of the this project is to write a code that make a checkout form.
